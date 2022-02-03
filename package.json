@@ -2,7 +2,8 @@
   "name": "support-desk",
   "version": "1.0.0",
   "engines": {
-    "node": "16.13.1"
+    "node": "16.13.1",
+    "npm": "8.3.0"
   },
   "description": "Support ticket app",
   "main": "server.js",
